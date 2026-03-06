@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+# VS Code
+.vscode/
+*.code-workspace
+
+# C (compilation files)
+*.o
+*.obj
+*.out
+movhex
+HexagonalCells.exe
+
+# Backup
+*.swp
+*.bak
