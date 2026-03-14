@@ -4,11 +4,11 @@ Welcome to my personal repository. This space serves as a collection of my progr
 
 ## 📁 Projects
 
-### [Dijkstra Hex Grid Pathfinding](./ExagonalCellsProject)
+### Dijkstra Hex Grid Pathfinding
 C implementation of optimal pathfinding on a hexagonal grid with dynamic traversal costs and aerial routes.  
 **Final project for Algorithms and Data Structures — A.Y. 2025/2026**
 
-[View project →](./ExagonalCellsProject)
+[View project →](./HexagonalCellsProject)
 
 ### Coming Soon...
 More projects will be added here as I continue my learning journey.
